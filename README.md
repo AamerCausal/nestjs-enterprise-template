@@ -102,7 +102,7 @@ src/
 ### 1. **Clone the Template**
 
 ```bash
-git clone <this-repository> my-new-project
+git clone https://github.com/AamerCausal/nestjs-enterprise-template.git my-new-project
 cd my-new-project
 rm -rf .git  # Remove git history to start fresh
 git init     # Initialize new git repository
